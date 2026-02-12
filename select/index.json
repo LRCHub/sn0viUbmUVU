@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "Standing Next to You",
+  "base_artist": "정국 (Jung Kook)",
+  "createdAt": "2026-02-12T12:42:38.616385Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Standing Next to You",
+      "artist": "Jungkook",
+      "has_synced": true,
+      "path": "select/01_Standing_Next_to_You_Jungkook.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Standing Next to You",
+      "artist": "Jung Kook",
+      "has_synced": true,
+      "path": "select/02_Standing_Next_to_You_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Standing Next to You",
+      "artist": "Jung Kook",
+      "has_synced": true,
+      "path": "select/03_Standing_Next_to_You_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Standing Next to You",
+      "artist": "Jungkook",
+      "has_synced": true,
+      "path": "select/04_Standing_Next_to_You_Jungkook.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Standing Next to You",
+      "artist": "Jung Kook💜",
+      "has_synced": true,
+      "path": "select/05_Standing_Next_to_You_Jung_Kook💜.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Standing Next to You",
+      "artist": "Jung Kook",
+      "has_synced": true,
+      "path": "select/06_Standing_Next_to_You_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Standing Next to You || BaseNaija",
+      "artist": "Jungkook",
+      "has_synced": true,
+      "path": "select/07_Standing_Next_to_You___BaseNaija_Jungkook.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Standing Next to You",
+      "artist": "Jung Kook",
+      "has_synced": true,
+      "path": "select/08_Standing_Next_to_You_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Standing Next to You",
+      "artist": "Jungkook",
+      "has_synced": true,
+      "path": "select/09_Standing_Next_to_You_Jungkook.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Standing Next to You",
+      "artist": "정국 (Jung Kook)",
+      "has_synced": true,
+      "path": "select/10_Standing_Next_to_You_정국_(Jung_Kook).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Standing Next to You",
+      "artist": "Jung Kook",
+      "has_synced": true,
+      "path": "select/11_Standing_Next_to_You_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Standing Next to You",
+      "artist": "정국 (Jung Kook)",
+      "has_synced": true,
+      "path": "select/12_Standing_Next_to_You_정국_(Jung_Kook).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Standing Next to You",
+      "artist": "Jungkook",
+      "has_synced": true,
+      "path": "select/13_Standing_Next_to_You_Jungkook.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Standing Next to You",
+      "artist": "Jung Kook - Topic",
+      "has_synced": true,
+      "path": "select/14_Standing_Next_to_You_Jung_Kook_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Standing Next To You (Remix)",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/15_Standing_Next_To_You_(Remix)_Usher.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Standing Next to You (Live)",
+      "artist": "Jung Kook",
+      "has_synced": true,
+      "path": "select/16_Standing_Next_to_You_(Live)_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Standing Next to You",
+      "artist": "정국 (Jung Kook)",
+      "has_synced": true,
+      "path": "select/17_Standing_Next_to_You_정국_(Jung_Kook).lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Standing Next to You (Paused)",
+      "artist": "Jung Kook",
+      "has_synced": true,
+      "path": "select/18_Standing_Next_to_You_(Paused)_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Standing Next To Me",
+      "artist": "The Last Shadow Puppets",
+      "has_synced": false,
+      "path": "select/19_Standing_Next_To_Me_The_Last_Shadow_Puppets.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Standing Next To Me - Live from Spotify London",
+      "artist": "The Last Shadow Puppets, Alex Turner & Miles Kane",
+      "has_synced": false,
+      "path": "select/20_Standing_Next_To_Me_-_Live_from_Spotify_London_The_Last_Shadow_Puppets,_Alex_Turner_&_Miles_Kane.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Standing Next to Me (Acoustic)",
+      "artist": "The Last Shadow Puppets",
+      "has_synced": false,
+      "path": "select/21_Standing_Next_to_Me_(Acoustic)_The_Last_Shadow_Puppets.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Standing Next To Me",
+      "artist": "The Last Shadow Puppets",
+      "has_synced": true,
+      "path": "select/22_Standing_Next_To_Me_The_Last_Shadow_Puppets.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Standing Next to You (Future Funk Remix)",
+      "artist": "Jung Kook",
+      "has_synced": true,
+      "path": "select/23_Standing_Next_to_You_(Future_Funk_Remix)_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Standing Next to You (Holiday Remix)",
+      "artist": "Jung Kook",
+      "has_synced": false,
+      "path": "select/24_Standing_Next_to_You_(Holiday_Remix)_Jung_Kook.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Standing Next to You (Latin Trap Remix)",
+      "artist": "Jung Kook",
+      "has_synced": false,
+      "path": "select/25_Standing_Next_to_You_(Latin_Trap_Remix)_Jung_Kook.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Standing Next to You (Slow Jam Remix)",
+      "artist": "Jung Kook",
+      "has_synced": false,
+      "path": "select/26_Standing_Next_to_You_(Slow_Jam_Remix)_Jung_Kook.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Standing Next to You",
+      "artist": "Jung Kook",
+      "has_synced": true,
+      "path": "select/27_Standing_Next_to_You_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Standing Next to You (PBR&B Remix)",
+      "artist": "Jung Kook",
+      "has_synced": true,
+      "path": "select/28_Standing_Next_to_You_(PBR&B_Remix)_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Standing Next to You (Band Ver.)",
+      "artist": "Jung Kook",
+      "has_synced": false,
+      "path": "select/29_Standing_Next_to_You_(Band_Ver.)_Jung_Kook.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Standing Next to You",
+      "artist": "Jungkook",
+      "has_synced": true,
+      "path": "select/30_Standing_Next_to_You_Jungkook.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Standing Next to You (Band Ver.)",
+      "artist": "Jungkook",
+      "has_synced": true,
+      "path": "select/31_Standing_Next_to_You_(Band_Ver.)_Jungkook.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Standing Next to You (Future Funk Remix)",
+      "artist": "Jungkook",
+      "has_synced": true,
+      "path": "select/32_Standing_Next_to_You_(Future_Funk_Remix)_Jungkook.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Standing Next to You",
+      "artist": "Jung Kook",
+      "has_synced": false,
+      "path": "select/pl_01_Standing_Next_to_You_Jung_Kook.txt"
+    }
+  ]
+}
